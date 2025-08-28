@@ -1,3 +1,4 @@
+//one parent one child
 class Employee{
     int Emp_id;
     String Emp_name;

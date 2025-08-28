@@ -1,3 +1,4 @@
+//multiple inheritance 
 class Employee{
     int Emp_id;
     String Emp_name;
@@ -61,3 +62,6 @@ public class InheritanceMultiLevel {
     }
     
 }
+
+//hirerical inheritance: one parent muliple children
+//mutltiple inheritance: can't implement using classess will discuss later

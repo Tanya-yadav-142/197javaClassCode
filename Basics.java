@@ -8,8 +8,8 @@ public class Basics {
         salary = s;
     }
     Basics(){
-        
-    }
+
+        }
     //A method defines what an object does (its behavior).
     int add(int a, int b) { 
         return a + b;
@@ -26,6 +26,10 @@ public class Basics {
 
         Basics calc = new Basics();
         System.out.println("Sum: " + calc.add(5, 10));
+
+        
+
+
     }
 }
 

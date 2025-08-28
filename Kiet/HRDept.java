@@ -5,10 +5,10 @@ public class HRDept {
 
         EmployeeKIET ek=new EmployeeKIET();
 
-        ek.Emp_name="Shikha";
+        // ek.Emp_name="Shikha";
         ek.Emp_id=102;
 
-        ek.Salary=200000;
+        // ek.Salary=200000;
         ek.Organisation="KIET Groups";
 
         ek.employeeDetails();
